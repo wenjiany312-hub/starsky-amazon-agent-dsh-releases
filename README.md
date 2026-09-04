@@ -23,7 +23,11 @@
 
 作者坚哥。这套系统的更新说明、实战案例和踩坑记录都先发在公众号，圈子里答疑。
 
-- 公众号：**跨境者说干货**（微信搜一搜）
+<p align="center">
+  <img src="docs/assets/公众号_跨境者说干货.png" alt="微信搜一搜：跨境者说干货" width="640">
+</p>
+
+- 公众号：**跨境者说干货**（微信搜一搜，或扫上图二维码）
 - 知识星球：[星空的跨境圈子](https://wx.zsxq.com/group/28882244282441)
 - 同源的其他平台版本：[Codex 版 starsky-amazon-plugins-codex](https://github.com/wenjiany312-hub/starsky-amazon-plugins-codex) ｜ [Antigravity 版 starsky-amazon-agent-antigravity](https://github.com/wenjiany312-hub/starsky-amazon-agent-antigravity) ｜ [ZCode 版 starsky-amazon-agent-zcode](https://github.com/wenjiany312-hub/starsky-amazon-agent-zcode)；四版业务方法论同源，安装方式与目录结构各按平台适配，不要混装
 - 问题反馈：本仓库 Issues，或公众号后台留言
